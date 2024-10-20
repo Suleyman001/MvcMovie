@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Views\HelloWorld\Welcomee.cshtml" />
+  </ItemGroup>
+
 </Project>
