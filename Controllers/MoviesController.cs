@@ -10,6 +10,8 @@ using MvcMovie.Models;
 
 namespace MvcMovie.Controllers
 {
+
+
     public class MoviesController : Controller
     {
         private readonly MvcMovieContext _context;
